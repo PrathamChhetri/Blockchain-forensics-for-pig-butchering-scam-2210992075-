@@ -1,0 +1,2 @@
+# Blockchain-forensics-for-pig-butchering-scam-2210992075-
+A machine learning-based framework that analyzes Ethereum transaction data to identify suspicious wallet addresses linked to pig butchering scams. The system uses feature extraction and a Random Forest classifier to detect high-risk wallets based on transaction behavior patterns, enabling efficient fraud detection and blockchain investigation.
